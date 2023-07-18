@@ -1,4 +1,4 @@
-package com.yh.flink.api;
+package com.yh.flink.basic_api;
 
 import org.apache.flink.api.common.functions.RichMapFunction;
 import org.apache.flink.configuration.Configuration;
